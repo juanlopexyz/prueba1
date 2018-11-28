@@ -1,16 +1,27 @@
+body html {
+	margin: 0;
+	padding: 0;
+	background-color: #F1C40F;
+
+}
 
 
-
-.home .titulo {
+.home {
 	font-size: 12 px;
-	background-color: black;
-
-
+	background-image: url ("img/funky-lines.png");
 
 }
 
-body {
-	background-color: green;
+.imput1 {
+	background-image: url ("img/funky-lines.png");
 
 }
 
+.container {
+	background-image: url ("img/funky-lines.png");
+
+}
+
+.jumbotron jumbotron-fluid {
+background-image: url ("img/funky-lines.png");	
+}
